@@ -7,7 +7,7 @@
 body {
 	background-color: #d9dcd6;
 }
-
+/* switch header class with header element */
 .header {
 	padding: 20px;
 	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -50,7 +50,7 @@ a {
 p {
 	font-size: 16px;
 }
-
+/* switch hero class with figure element */
 .hero {
 	height: 800px;
 	width: 100%;
@@ -69,13 +69,13 @@ p {
 	float: right;
 	margin-left: 25px;
 }
-
+/* switch content class with main element */
 .content {
 	width: 75%;
 	display: inline-block;
 	margin-left: 20px;
 }
-
+/* switch benefits class with aside */
 .benefits {
 	margin-right: 20px;
 	padding: 20px;
@@ -188,7 +188,7 @@ p {
 	margin-bottom: 20px;
 	font-size: 36px;
 }
-
+/* switch footer class with footer element */
 .footer {
 	padding: 30px;
 	clear: both;

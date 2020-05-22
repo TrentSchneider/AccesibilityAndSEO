@@ -86,50 +86,18 @@ aside {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 	background-color: #2589bd;
 }
-/* change benefit lead, benefit brand, and benefit cost classes into single class */
-.benefit-lead {
+/* change benefit lead, benefit brand, and benefit cost classes into single class benefitFormat */
+.benefitFormat {
 	margin-bottom: 32px;
 	color: #ffffff;
 }
-
-.benefit-brand {
-	margin-bottom: 32px;
-	color: #ffffff;
-}
-
-.benefit-cost {
-	margin-bottom: 32px;
-	color: #ffffff;
-}
-/* change h3 classes to just h3 */
-.benefit-lead h3 {
-	margin-bottom: 10px;
-	text-align: center;
-}
-
-.benefit-brand h3 {
-	margin-bottom: 10px;
-	text-align: center;
-}
-
-.benefit-cost h3 {
+/* change h3 classes to single h3 class */
+.benefitFormat h3 {
 	margin-bottom: 10px;
 	text-align: center;
 }
 /* change 3 img classes to single img class */
-.benefit-lead img {
-	display: block;
-	margin: 10px auto;
-	max-width: 150px;
-}
-
-.benefit-brand img {
-	display: block;
-	margin: 10px auto;
-	max-width: 150px;
-}
-
-.benefit-cost img {
+.benefitFormat img {
 	display: block;
 	margin: 10px auto;
 	max-width: 150px;

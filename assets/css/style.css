@@ -96,14 +96,14 @@ aside {
 	margin-bottom: 10px;
 	text-align: center;
 }
-/* change 3 img classes to single img class */
+/* changeed 3 img classes to single img and class */
 .benefitFormat img {
 	display: block;
 	margin: 10px auto;
 	max-width: 150px;
 }
-/* change search enging optimization, online reputation management, and social media marketing into single class */
-.search-engine-optimization {
+/* changed search engine optimization, online reputation management, and social media marketing into single class */
+.mainSections {
 	margin-bottom: 20px;
 	padding: 50px;
 	height: 300px;
@@ -112,50 +112,17 @@ aside {
 	color: #ffffff;
 }
 
-.online-reputation-management {
-	margin-bottom: 20px;
-	padding: 50px;
-	height: 300px;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-	background-color: #0072bb;
-	color: #ffffff;
-}
-
-.social-media-marketing {
-	margin-bottom: 20px;
-	padding: 50px;
-	height: 300px;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-	background-color: #0072bb;
-	color: #ffffff;
-}
-/* change search enging optimization, online reputation management, and socail media marketing classes to single img class  */
-.search-engine-optimization img {
+/* changed search engine optimization, online reputation management, and socail media marketing classes to single img and class  */
+.mainSections img {
 	max-height: 200px;
 }
 
-.online-reputation-management img {
-	max-height: 200px;
-}
-
-.social-media-marketing img {
-	max-height: 200px;
-}
-/* change h2 classes to just h2 */
-.search-engine-optimization h2 {
+/* changeed h2 classes to just single class and h2 */
+.mainSections h2 {
 	margin-bottom: 20px;
 	font-size: 36px;
 }
 
-.online-reputation-management h2 {
-	margin-bottom: 20px;
-	font-size: 36px;
-}
-
-.social-media-marketing h2 {
-	margin-bottom: 20px;
-	font-size: 36px;
-}
 /* switched footer class with footer element */
 footer {
 	padding: 30px;

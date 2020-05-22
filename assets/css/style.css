@@ -15,7 +15,7 @@ header {
 	background-color: #2a607c;
 	color: #ffffff;
 }
-
+/* switched header class with header element */
 header h1 {
 	display: inline-block;
 	font-size: 48px;

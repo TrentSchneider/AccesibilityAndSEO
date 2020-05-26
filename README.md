@@ -12,4 +12,4 @@ Since this is a demonstration of the main page of a website, the links are non-f
 ##Credits
 The original code for this HTML was provided by the Trilogy for their full stack coding bootcamp at the University of Richmond.
 
-All modifications for accessibility, search engine optimization, and code consolidation and cleanup were done by Trenton Schneider. You can find his work on GitHub [here] (https://github.com/TrentSchneider)
+All modifications for accessibility, search engine optimization, and code consolidation and cleanup were done by Trenton Schneider. You can find his work on GitHub at https://github.com/TrentSchneider

@@ -19,18 +19,18 @@ header {
   color: #ffffff;
 }
 
-/* switched header class with header element */
+/* updated header class with header element */
 header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-/* switched header class with header element */
+/* updated header class with header element */
 header h1 .seo {
   color: #d9dcd6;
 }
 
-/* switched header class with header element */
+/* switched the div with the nav element within header */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -39,12 +39,12 @@ header nav {
   font-size: 20px;
 }
 
-/* switched header class and div element with header and nav elements */
+/* updated the header class and div element with header and nav elements */
 header nav ul {
   list-style-type: none;
 }
 
-/* switched header class and div element with header and nav elements */
+/* updated the header class and div element with header and nav elements */
 header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -92,7 +92,7 @@ main {
   margin-left: 20px;
 }
 
-/* changed search engine optimization, online reputation management, and social media marketing into section element */
+/* changed search engine optimization, online reputation management, and social media marketing into section element within main */
 main section {
   margin-bottom: 20px;
   padding: 50px;
@@ -102,12 +102,12 @@ main section {
   color: #ffffff;
 }
 
-/* changed search engine optimization, online reputation management, and socail media marketing classes to single img and section element  */
+/* changed search engine optimization, online reputation management, and socail media marketing classes to single img element within main section  */
 main section img {
   max-height: 200px;
 }
 
-/* changeed h2 classes to just section element and h2 */
+/* changeed h2 classes to just an h2 within main section */
 main section h2 {
   margin-bottom: 20px;
   font-size: 36px;
@@ -126,19 +126,19 @@ aside {
   background-color: #2589bd;
 }
 
-/* change benefit lead, benefit brand, and benefit cost classes into single section element */
+/* change benefit lead, benefit brand, and benefit cost classes into single section element within aside */
 aside section {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-/* change h3 classes to single h3 and section element */
+/* change h3 classes to a single h3 within aside section */
 aside section h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
-/* changeed 3 img classes to single img and section element */
+/* changeed 3 img classes to single img within aside section */
 aside section img {
   display: block;
   margin: 10px auto;
@@ -155,6 +155,7 @@ footer {
   text-align: center;
 }
 
+/* switched footer class with footer element */
 footer h2 {
   font-size: 20px;
 }
